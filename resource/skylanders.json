@@ -1,0 +1,442 @@
+[
+        {  
+           "name": "Spyro",   
+           "image": "https://cdn.discordapp.com/attachments/846807473352343552/846815877839585320/Spyro.jpg",
+           "gender": "Male",
+           "species": "Purple Dragon",
+           "release": "Skylanders: Spyro's Adventure",
+           "role": "Skylander",
+           "element": "https://cdn.discordapp.com/attachments/846807473352343552/846815741483286628/Magic.png",
+           "quote": "All Fired Up!"
+        },
+        {
+            "name": "Eruptor",
+            "image": "https://cdn.discordapp.com/attachments/846807473352343552/846815357016342548/Eruptor.png",
+            "gender": "Male",
+            "species": "Lava Monster",
+            "release": "Skylanders: Spyro's Adventure",
+            "role": "Skylander",
+            "element": "https://cdn.discordapp.com/attachments/846807473352343552/846815500461801573/Fire.png",
+            "quote": "Born to Burn!"
+        },
+        {
+            "name": "Stealth Elf",
+            "image": "https://cdn.discordapp.com/attachments/846807473352343552/846815150257471508/Elf.jpg",
+            "gender": "Female",
+            "species": "Elf",
+            "release": "Skylanders: Spyro's Adventure",
+            "role": "Skylander",
+            "element": "https://cdn.discordapp.com/attachments/846807473352343552/846816103765770240/Life.png",
+            "quote": "Silent but Deadly!"
+        },
+        {
+            "name": "King Pen",
+            "image": "https://cdn.discordapp.com/attachments/846807473352343552/846824935875411988/KingPen.jpg",
+            "gender": "Male",
+            "species": "Penguin",
+            "release": "Skylanders: Imaginators",
+            "role": "Sensei",
+            "element": "https://cdn.discordapp.com/attachments/846807473352343552/846824941340065862/Water.png",
+            "quote": "Stay Frosty!"
+        },
+        {
+            "name": "Crash Bandicoot",
+            "image": "https://cdn.discordapp.com/attachments/846807473352343552/846826475108827146/Crash.jpg",
+            "gender": "Male",
+            "species": "Mutated Bandicoot",
+            "release": "Skylanders: Imaginators",
+            "role": "Sensei",
+            "element": "https://cdn.discordapp.com/attachments/846807473352343552/846816103765770240/Life.png",
+            "quote": "None"
+        },
+        {
+            "name": "Kaos (Steve)",
+            "image": "https://cdn.discordapp.com/attachments/846807473352343552/846827908295032862/Kaos.jpg",
+            "gender": "Male",
+            "species": "Watermelon head",
+            "release": "Skylanders: Spyro's Adventure",
+            "role": "Antagonist",
+            "element": "https://cdn.discordapp.com/attachments/846807473352343552/846828435660865586/Kaoselement.png",
+            "quote": "Needs no introduction."
+        },
+        {
+            "name": "Master Eon",
+            "image": "https://cdn.discordapp.com/attachments/846807473352343552/846830123465572372/Eon.jpg",
+            "gender": "Male",
+            "species": "Spirit",
+            "release": "Skylanders: Spyro's Adventure",
+            "role": "Portal Master and Guardian Master of Skylands",
+            "element": "https://cdn.discordapp.com/attachments/846807473352343552/846829519863414882/Eonelement.png",
+            "quote": "None"
+        },
+        {
+            "name": "Dr. Neo Cortex",
+            "image": "https://cdn.discordapp.com/attachments/846807473352343552/847059923447447613/Cortex.jpg",
+            "gender": "Male",
+            "species": "Human",
+            "release": "Skylanders: Imaginators",
+            "role": "Sensei",
+            "element": "https://cdn.discordapp.com/attachments/846807473352343552/847059933715234846/Tech.png",
+            "quote": "MWAHAHAHAHAHAAA!!!"
+        },
+        {
+            "name": "Tree Rex",
+            "image": "https://cdn.discordapp.com/attachments/846807473352343552/847923537413931009/Treerex.png",
+            "gender": "Male",
+            "species": "Ent",
+            "release": "Skylanders: Giants",
+            "role": "Giant",
+            "element": "https://cdn.discordapp.com/attachments/846807473352343552/846816103765770240/Life.png",
+            "quote": "Be Afraid of the Bark!"
+        },
+        {
+            "name": "Sprocket",
+            "image": "https://cdn.discordapp.com/attachments/846807473352343552/847925049935921172/Sprocket.jpg",
+            "gender": "Female",
+            "species": "Goldling",
+            "release": "Skylanders: Giants",
+            "role": "Skylander",
+            "element": "https://cdn.discordapp.com/attachments/846807473352343552/847059933715234846/Tech.png",
+            "quote": "The Fix Is In!"
+        },
+        {
+            "name": "Boomer",
+            "image": "https://cdn.discordapp.com/attachments/846807473352343552/847926220107939880/290px-Boomer_Promo.jpg",
+            "gender": "Male",
+            "species": "Troll",
+            "role": "Skylander",
+            "element": "https://cdn.discordapp.com/attachments/846807473352343552/847059933715234846/Tech.png",
+            "quote": "Bring the Boom!"
+        },
+        {
+            "name": "Bouncer",
+            "image": "https://cdn.discordapp.com/attachments/846807473352343552/847926868170768425/SG_Illus_Bouncer_Crop_LoRes1.jpg",
+            "gender": "Male",
+            "species": "Robot",
+            "release": "Skylanders: Giant",
+            "role": "Giant",
+            "element": "https://cdn.discordapp.com/attachments/846807473352343552/847059933715234846/Tech.png",
+            "quote": "Deal with the Wheel!"
+        },
+        {
+            "name": "Chain Reaction",
+            "image": "https://cdn.discordapp.com/attachments/846807473352343552/847928195201236992/Chain_Reaction_Promo.jpg",
+            "gender": "Male",
+            "species": "Unkown",
+            "release": "Skylanders: Imaginators",
+            "role": "Sensei",
+            "element": "https://cdn.discordapp.com/attachments/846807473352343552/847059933715234846/Tech.png",
+            "quote": "The Saw is Law!"
+        },
+        {
+            "name": "Chopper",
+            "image": "https://cdn.discordapp.com/attachments/846807473352343552/847928428191678494/Chopper_Promo.jpg",
+            "gender": "Male",
+            "species": "Tyrannosaurus Rex",
+            "release": "Skylanders: Trap Team",
+            "role": "Skylander",
+            "element": "https://cdn.discordapp.com/attachments/846807473352343552/847059933715234846/Tech.png",
+            "quote": "Dino Might!"
+        },
+        {
+            "name": "Countdown",
+            "image": "https://cdn.discordapp.com/attachments/846807473352343552/847928783570468934/Countdown_Art.jpg",
+            "gender": "Male",
+            "species": "Bomb",
+            "release": "Skylanders: Swap Force",
+            "role": "Skylander",
+            "element": "https://cdn.discordapp.com/attachments/846807473352343552/847059933715234846/Tech.png",
+            "quote": "I'm the Bomb!"
+        },
+        {
+            "name": "Dr. Krankcase",
+            "image": "https://cdn.discordapp.com/attachments/846807473352343552/847929946407043092/SI_Ilus_DrKrankcase_HighRes.jpg",
+            "gender": "Male",
+            "species": "Unknown",
+            "release": "Skylanders: Trap Team",
+            "role": "Doom Raider, Ally, Sensei (Imaginators)",
+            "element": "https://cdn.discordapp.com/attachments/846807473352343552/847059933715234846/Tech.png",
+            "quote": "Not the healing kind of doctor. (The Doctor is In!)"
+        },
+        {
+            "name": "Drill Sergeant",
+            "image": "https://cdn.discordapp.com/attachments/846807473352343552/847933135555657738/290px-Drill-Sergeant_03.jpg",
+            "gender": "Male",
+            "species": "Arkeyan Ultron",
+            "release": "Skylanders: Spyro's Adventure",
+            "role": "Skylander",
+            "element": "https://cdn.discordapp.com/attachments/846807473352343552/847059933715234846/Tech.png",
+            "quote": "Licensed to Drill!"
+        },
+        {
+            "name": "Drobot",
+            "image": "https://cdn.discordapp.com/attachments/846807473352343552/847938803888029747/Tht.jpg",
+            "gender": "Male",
+            "species": "Dragon",
+            "release": "Skylanders: Trap Team",
+            "role": "Mini",
+            "element": "https://cdn.discordapp.com/attachments/846807473352343552/847059933715234846/Tech.png",
+            "quote": "Blink and Destroy!"
+        },
+        {
+            "name": "Gearshift",
+            "image": "https://cdn.discordapp.com/attachments/846807473352343552/847938927410151514/Gearshift_Promo.jpg",
+            "gender": "Female",
+            "species": "Dragon/Cyborg",
+            "release": "Skylanders: Trap Team",
+            "role": "Trap Master",
+            "element": "https://cdn.discordapp.com/attachments/846807473352343552/847059933715234846/Tech.png",
+            "quote": "All Geared Up!"
+        },
+        {
+            "name": "High Volt",
+            "image": "https://cdn.discordapp.com/attachments/846807473352343552/847939277094125578/High_Volt_Art.jpg",
+            "gender": "Male",
+            "species": "SuperCharger",
+            "release": "Skylanders: SuperChargers",
+            "role": "Skylander",
+            "element": "https://cdn.discordapp.com/attachments/846807473352343552/847059933715234846/Tech.png",
+            "quote": "Protect and Surge!"
+        },
+        {
+            "name": "Jawbreaker",
+            "image": "https://cdn.discordapp.com/attachments/846807473352343552/847939584229900298/Jawbreaker_Promo.jpg",
+            "gender": "Male",
+            "species": "Robot",
+            "release": "Skylanders: Trap Team",
+            "role": "Trap Master",
+            "element": "https://cdn.discordapp.com/attachments/846807473352343552/847059933715234846/Tech.png",
+            "quote": "Down for the Count!"
+        },
+        {
+            "name": "Magna Charge",
+            "image": "https://cdn.discordapp.com/attachments/846807473352343552/847940129582874674/Magna_Charge_Art.jpg",
+            "gender": "Male",
+            "species": "Ultron Robot",
+            "release": "Skylanders: Swap Force",
+            "role": "SWAP Force",
+            "element": "https://cdn.discordapp.com/attachments/846807473352343552/847059933715234846/Tech.png",
+            "quote": "Attract to Attack!"
+        },
+        {
+            "name": "Ro-Bow",
+            "image": "https://cdn.discordapp.com/attachments/846807473352343552/847940388937007154/Ro-Bow_Promo.jpg",
+            "gender": "Male",
+            "species": "Robot",
+            "release": "Skylanders: Imaginators",
+            "role": "Sensei",
+            "element": "https://cdn.discordapp.com/attachments/846807473352343552/847059933715234846/Tech.png",
+            "quote": "Compute and Shoot!"
+        },
+        {
+            "name": "Spy Rise",
+            "image": "https://cdn.discordapp.com/attachments/846807473352343552/847940849610522666/Spyrise.jpg",
+            "gender": "Male",
+            "species": "Spider-like Robot",
+            "release": "Skylanders: Swap Force",
+            "role": "SWAP Force",
+            "element": "https://cdn.discordapp.com/attachments/846807473352343552/847059933715234846/Tech.png",
+            "quote": "Compute and Shoot!"
+        },
+        {
+            "name": "Tread Head",
+            "image": "https://cdn.discordapp.com/attachments/846807473352343552/847941056305037382/Tread_Head_Promo.jpg",
+            "gender": "Male",
+            "species": "Unknown",
+            "release": "Skylanders: Trap Team",
+            "role": "Skylander",
+            "element": "https://cdn.discordapp.com/attachments/846807473352343552/847059933715234846/Tech.png",
+            "quote": "Tread and Shred!"
+        },
+        {
+            "name": "Wind-Up",
+            "image": "https://cdn.discordapp.com/attachments/846807473352343552/847941750139518976/Windup.jpg",
+            "gender": "Male",
+            "species": "Wind Up Toy",
+            "release": "Skylanders: Swap Force",
+            "role": "Skylander",
+            "element": "https://cdn.discordapp.com/attachments/846807473352343552/847059933715234846/Tech.png",
+            "quote": "All Wound Up!"
+        },
+        {
+            "name": "Air Strike",
+            "image": "https://cdn.discordapp.com/attachments/846807473352343552/848271996034744320/Air_Strike_Promo.jpg",
+            "gender": "Male",
+            "species": "Unknown",
+            "release": "Skylanders: Imaginators",
+            "role": "Sensei",
+            "element": "https://cdn.discordapp.com/attachments/846807473352343552/848270839413080084/Air.png",
+            "quote": "Fight and Flight!"
+        },
+        {
+            "name": "Bad Juju",
+            "image": "https://cdn.discordapp.com/attachments/846807473352343552/848272180574945330/Bad_Juju_Artwork.jpg",
+            "gender": "Female",
+            "species": "Skeleton Ghost",
+            "release": "Skylanders: Imaginators",
+            "role": "Villain, Ally and Sensei",
+            "element": "https://cdn.discordapp.com/attachments/846807473352343552/848270839413080084/Air.png",
+            "quote": "The Spirit is Willing!"
+        },
+        {
+            "name": "Blades",
+            "image": "https://cdn.discordapp.com/attachments/846807473352343552/848272969100951572/Blades.png",
+            "gender": "Male",
+            "species": "Dragon",
+            "release": "Skylanders: Trap Team",
+            "role": "Skylander",
+            "element": "https://cdn.discordapp.com/attachments/846807473352343552/848270839413080084/Air.png",
+            "quote": "Looking Sharp!"
+        },
+        {
+            "name": "Boom Jet",
+            "image": "https://cdn.discordapp.com/attachments/846807473352343552/848275433833496616/Boom_Jet_Promo_Art.jpg",
+            "gender": "Male",
+            "species": "Unknown",
+            "release": "Skylanders: Swap Force",
+            "role": "SWAP Force",
+            "element": "https://cdn.discordapp.com/attachments/846807473352343552/848270839413080084/Air.png",
+            "quote": "Bombs Away!"
+        },
+        {
+            "name": "Fling Kong",
+            "image": "https://cdn.discordapp.com/attachments/846807473352343552/848277492287930378/Fling_Kong.jpg",
+            "gender": "Male",
+            "species": "Monkey",
+            "release": "Skylanders: Trap Team",
+            "role": "Skylander",
+            "element": "https://cdn.discordapp.com/attachments/846807473352343552/848270839413080084/Air.png",
+            "quote": "Monkey See, Monkey Doom!"
+        },
+        {
+            "name": "Free Ranger",
+            "image": "https://cdn.discordapp.com/attachments/846807473352343552/848280085239693352/Free_Ranger_Art.jpg",
+            "gender": "Male",
+            "species": "Storm Chicken",
+            "release": "Skylanders: Swap Force",
+            "role": "SWAP Force",
+            "element": "https://cdn.discordapp.com/attachments/846807473352343552/848270839413080084/Air.png",
+            "quote": "Whip Up A Storm!"
+        },
+        {
+            "name": "Gusto",
+            "image": "https://cdn.discordapp.com/attachments/846807473352343552/848280451462594590/Gusto_Promo.jpg",
+            "gender": "Male",
+            "species": "Humanoid",
+            "release": "Skylanders: Trap Team",
+            "role": "Trap Master",
+            "element": "https://cdn.discordapp.com/attachments/846807473352343552/848270839413080084/Air.png",
+            "quote": "Gusts and Glory!"
+        },
+        {
+            "name": "Jet-Vac",
+            "image": "https://cdn.discordapp.com/attachments/846807473352343552/848281600176160768/Jet_Vac_Promo.jpg",
+            "gender": "Male",
+            "species": "Sky Baron",
+            "release": "Skylanders: Giants",
+            "role": "Skylander",
+            "element": "https://cdn.discordapp.com/attachments/846807473352343552/848270839413080084/Air.png",
+            "quote": "Hawk and Awe!"
+        },
+        {
+            "name": "Lightning Rod",
+            "image": "https://cdn.discordapp.com/attachments/846807473352343552/848282839858544640/LightningRod_01.jpg",
+            "gender": "Male",
+            "species": "Storm Giant",
+            "release": "Skylanders: Spyro's Adventure",
+            "role": "Skylander",
+            "element": "https://cdn.discordapp.com/attachments/846807473352343552/848270839413080084/Air.png",
+            "quote": "One Strike and You're Out!"
+        },
+        {
+            "name": "Pop Thorn",
+            "image": "https://cdn.discordapp.com/attachments/846807473352343552/848283241085665290/Pop_Thorn.jpg",
+            "gender": "Male",
+            "species": "Pufferthorn",
+            "release": "Skylanders: Swap Force",
+            "role": "Skylander",
+            "element": "https://cdn.discordapp.com/attachments/846807473352343552/848270839413080084/Air.png",
+            "quote": "Straight to the Point!"
+        },
+        {
+            "name": "Scratch",
+            "image": "https://cdn.discordapp.com/attachments/846807473352343552/848284778192961587/Scratch_Promo.jpg",
+            "gender": "Female",
+            "species": "Feathercat",
+            "release": "Skylanders: Swap Force",
+            "role": "Skylander",
+            "element": "https://cdn.discordapp.com/attachments/846807473352343552/848270839413080084/Air.png",
+            "quote": "The Luck of the Claw!"
+        },
+        {
+            "name": "Sonic Boom",
+            "image": "https://cdn.discordapp.com/attachments/846807473352343552/848285036914016316/Sonic_Boom_shot.jpg",
+            "gender": "Female",
+            "species": "Griffin",
+            "release": "Skylanders: Spyro's Adventure",
+            "role": "Skylander",
+            "element": "https://cdn.discordapp.com/attachments/846807473352343552/848270839413080084/Air.png",
+            "quote": "Full Scream Ahead!"
+        },
+        {
+            "name": "Stormblade",
+            "image": "https://cdn.discordapp.com/attachments/846807473352343552/848285347422928957/Stormblade.jpg",
+            "gender": "Female",
+            "species": "Lark",
+            "release": "Skylanders: SuperChargers",
+            "role": "SuperCharger",
+            "element": "https://cdn.discordapp.com/attachments/846807473352343552/848270839413080084/Air.png",
+            "quote": "Feather the Storm!"
+        },
+        {
+            "name": "Swarm",
+            "image": "https://cdn.discordapp.com/attachments/846807473352343552/848285583892938752/Swarm.jpg",
+            "gender": "Male",
+            "species": "Hymenopteran Insect",
+            "release": "Skylanders: Giants",
+            "role": "Giant",
+            "element": "https://cdn.discordapp.com/attachments/846807473352343552/848270839413080084/Air.png",
+            "quote": "Bring the Sting!"
+        },
+        {
+            "name": "Wild Storm",
+            "image": "https://cdn.discordapp.com/attachments/846807473352343552/848285892057628682/Wild_Storm_Artwork.jpg",
+            "gender": "Male",
+            "species": "Unknown",
+            "release": "Skylanders: Imaginators",
+            "role": "Sensei",
+            "element": "https://cdn.discordapp.com/attachments/846807473352343552/848270839413080084/Air.png",
+            "quote": "The Roar of Thunder!"
+        },
+        {
+            "name": "Whirlwind",
+            "image": "https://cdn.discordapp.com/attachments/846807473352343552/848286156578881536/Whirlwind.png",
+            "gender": "Female",
+            "species": "Unicorn/Dragon Hybrid",
+            "release": "Skylanders: Spyro's Adventure",
+            "role": "Skylander",
+            "element": "https://cdn.discordapp.com/attachments/846807473352343552/848270839413080084/Air.png",
+            "quote": "Twists of Fury!"
+        },
+        {
+            "name": "Warnado",
+            "image": "https://cdn.discordapp.com/attachments/846807473352343552/848286418270289920/290px-Warnado_03.jpg",
+            "gender": "Male",
+            "species": "Turtle",
+            "release": "Skylanders: Spyro's Adventure",
+            "role": "Skylander",
+            "element": "https://cdn.discordapp.com/attachments/846807473352343552/848270839413080084/Air.png",
+            "quote": "For the Wind!"
+        },
+        {
+            "name": "Thunderbolt",
+            "image": "https://cdn.discordapp.com/attachments/846807473352343552/848286613036466227/Thunderbolt.jpg",
+            "gender": "Male",
+            "species": "Unknown",
+            "release": "Skylander: Trap Team",
+            "role": "Trap Master",
+            "element": "https://cdn.discordapp.com/attachments/846807473352343552/848270839413080084/Air.png",
+            "quote": "A Storm Is Coming!"
+        }
+        
+    ]

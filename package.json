@@ -1,0 +1,26 @@
+{
+  "name": "skylander.js",
+  "version": "1.0.0",
+  "description": "skylander.js is a standalone tool made to help developers get info about a skylander and use it in any project with ease.",
+  "main": "src/Main.js",
+  "scripts": {
+    "test": "node test/Test.js"
+  },
+  "author": "Mezotv & RTGAMINGWDT",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mezotv/skylander.js"
+  },
+  "bugs": {
+    "url": "https://github.com/mezotv/skylander.js/issues"
+  },
+  "keywords": [
+    "skylander",
+    "skylanders",
+    "skylanders-api",
+    "random-skylander",
+    "skylands"
+  ],
+  "homepage": "https://github.com/mezotv/skylander.js#readme"
+}
