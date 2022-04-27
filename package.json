@@ -1,6 +1,6 @@
 {
   "name": "skylander.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "skylander.js is a standalone tool made to help developers get info about a skylander and use it in any project with ease.",
   "main": "src/Main.js",
   "scripts": {
