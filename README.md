@@ -70,4 +70,4 @@ Fetching a Skylander by his name.
 
 ## Contributors
 
-![image](https://contrib.rocks/image?repo=mezotv/skylander.js)
+![image](https://contrib.rocks/image?repo=mezotv/skylanders.js)
