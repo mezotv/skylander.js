@@ -11,7 +11,7 @@ skylander.js is a standalone tool made to help developers get info about a skyla
 
 [![npm](https://img.shields.io/badge/npm-skylander.js-red)](https://www.npmjs.com/package/skylander.js) 
 
-[![size](https://img.shields.io/github/repo-size/skylanderjs/skylander.js?color=red&label=SIZE)](https://www.npmjs.com/package/skylander.js)
+[![size](https://img.shields.io/github/repo-size/mezotv/skylander.js?color=red&label=SIZE)](https://www.npmjs.com/package/skylander.js)
 
 [![downloads](https://img.shields.io/npm/dt/skylander.js?color=red)](https://www.npmjs.com/package/skylander.js)
 
