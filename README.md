@@ -22,7 +22,7 @@ skylander.js is a standalone tool made to help developers get info about a skyla
   - [Code Example](#code-example)
     - [Console output](#console-output)
   - [Methods](#methods)
-  - [Developers](#developers)
+  - [Developers](#contributors)
 
 ## Installation
 
