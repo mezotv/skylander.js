@@ -43,7 +43,7 @@ const { getSkylanderByName } = require("skylander.js")
 
 
 const run = async () => {
-    const skylander = await getSkylanderByName("032")
+    const skylander = await getSkylanderByName("spyro")
     console.log(skylander);
 }
 
