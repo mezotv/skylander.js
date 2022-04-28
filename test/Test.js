@@ -1,11 +1,11 @@
 /* Fetching a random skylander from the API and printing it to the console. */
 
-const { getSkylandernByName } = require("../src/Main"); 
+const { getSkylanderByName, getSkylanderById, getSkylanderRandom } = require("../src/Main"); 
 
 
 
 const run = async () => {
-    let skylander = await getSkylandernByName("spyro")
+    let skylander = await getSkylanderRandom()
     console.log(skylander);
 
 }

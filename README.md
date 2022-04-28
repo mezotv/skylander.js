@@ -65,8 +65,13 @@ run();
 ```
 ## Methods
 
+- **`getSkylanderByID(id)`**: 
+Fetching a Skylander by an id.
 - **`getSkylanderByName(name)`**:
 Fetching a Skylander by his name.
+- **`getSkylanderRandom()`**: 
+Fetching a random Skylander.
+
 
 ## Contributors
 

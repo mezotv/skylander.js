@@ -1,5 +1,7 @@
 /* Exporting the methods from the `./methods` folder. */
 module.exports = {
-    getSkylandernByName: require("./methods/getSkylandernByName"),
+    getSkylanderByName: require("./methods/getSkylanderByName"),
+    getSkylanderById: require("./methods/getSkylanderById"),
+    getSkylanderRandom: require("./methods/getSkylanderRandom.js"),
 
 };
